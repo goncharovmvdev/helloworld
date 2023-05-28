@@ -48,9 +48,4 @@ class HelloWorldRESTControllerTest extends IT {
             Assertions.assertEquals(expect.getBody(), rs.getBody());
         }
     }
-
-    @Test
-    void fail() {
-        Assertions.fail();
-    }
 }
