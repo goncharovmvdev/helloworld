@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * @author gonch
  * @since 5/28/2023, 7:24 PM
+ *
  */
 @RestController
 @RequestMapping("${uris.api}${uris.greeting}")
