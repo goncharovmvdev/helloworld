@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 public class HelloWorldRESTController {
     private final String greeting;
 
-    public HelloWorldRESTController(@Value("${greeting}") String greeting) {
+    HelloWorldRESTController(@Value("${greeting}") String greeting) {
         this.greeting = greeting;
     }
 
