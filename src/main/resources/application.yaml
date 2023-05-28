@@ -1,3 +1,4 @@
 greeting: Hello
 uris:
-  default: /
+  api: /api
+  greeting: /greeting
