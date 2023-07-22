@@ -1,4 +1,1 @@
-greeting: Hello
-uris:
-  api: /api
-  greeting: /greeting
+greeting: Hello!

@@ -1,6 +1,5 @@
-package goncharovmvdev.tests;
+package goncharovmvdev;
 
-import goncharovmvdev.IT;
 import org.junit.jupiter.api.Test;
 
 /**
